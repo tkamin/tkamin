@@ -31,12 +31,3 @@ jobs:
           plugin_lines: yes              # Shows lines of code added/deleted
           plugin_followup: yes           # Follow-up on issues and PRs
           plugin_followup_sections: user
-
-          plugin_achievements: yes
-          plugin_achievements_threshold: C  # (shows cumulative PR/issue achievements)
-
-          plugin_habits: yes
-          plugin_habits_days: 3650   # ~10 years
-
-
-

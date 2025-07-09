@@ -1,7 +1,7 @@
 ### Hi there! I'm Todd Kamin
 
 - 🔧 Senior Software Engineer with 15+ years of experience
-- 💡 Passionate about fullstack development, optimizing production environments, developer experience, and team velocity
+- 💡 Passionate about fullstack/backend development, optimizing production environments, developer experience, and team velocity
 
 ---
 
@@ -27,10 +27,10 @@
 
 ---
 
+<!--
 ![GitHub Metrics](https://raw.githubusercontent.com/tkamin/tkamin/main/github-metrics.svg)
 
 
-<!--
 ### 🔍 Pull Request Summary
 
 | Metric         | Count |
