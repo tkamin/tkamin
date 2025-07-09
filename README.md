@@ -27,12 +27,15 @@
 
 ---
 
+![GitHub Metrics](https://raw.githubusercontent.com/tkamin/tkamin/main/github-metrics.svg)
+
+
+<!--
 ### 🔍 Pull Request Summary
 
 | Metric         | Count |
 |----------------|-------|
 ![PRs Opened](https://github-readme-stats.vercel.app/api?username=tkamin&show_icons=true&count_private=true&hide=issues,contribs&custom_title=Total%20PRs%20Opened&include_all_commits=true)
-<!--
 | ✅ PRs Opened   | ![PRs Opened](https://img.shields.io/badge/dynamic/json?color=informational&label=Opened&query=%24.totalPullRequests.opened&url=https%3A%2F%2Fgh-stats-api.herokuapp.com%2Fapi%2Ftkamin) |
 | 📝 PRs Reviewed | (You may need a manual count or GitHub API script for accurate stats) |
 | 🔀 PRs Merged   | (Same as above—use GitHub's API or Insights tab) |
