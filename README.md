@@ -8,7 +8,7 @@
 ### 📊 GitHub Stats
 
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tkamin&show_icons=true&count_private=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tkamin&show_icons=true&count_private=true&theme=default&show=reviews,prs_merged,prs_merged_percentage&count_private=true&include_all_commits=true)
 
 <!-- Top Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkamin&layout=compact&theme=default)
@@ -21,7 +21,7 @@
 ### 🔧 Recent Contributions
 
 <!-- GitHub Activity Graph -->
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tkamin&theme=github-compact)
+<!-- ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tkamin&theme=github-compact) -->
 
 ---
 
