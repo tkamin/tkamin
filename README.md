@@ -25,9 +25,9 @@
 <!-- GitHub Activity Graph -->
 <!-- ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tkamin&theme=github-compact) -->
 
+<!--
 ---
 
-<!--
 ![GitHub Metrics](https://raw.githubusercontent.com/tkamin/tkamin/main/github-metrics.svg)
 
 
