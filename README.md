@@ -8,21 +8,24 @@
 ### 📊 GitHub Stats
 
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tkamin&show_icons=true&count_private=true&theme=default&show=reviews,prs_merged,prs_merged_percentage&count_private=true&include_all_commits=true)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tkamin&show_icons=true&count_private=true&theme=default&show=reviews,prs_merged,prs_merged_percentage&count_private=true&include_all_commits=true) -->
 
 <!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkamin&layout=compact&theme=default)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkamin&layout=compact&theme=default) -->
 
 <!-- GitHub Streak -->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=tkamin&theme=default)
 
+
+<!--
 ---
 
 ### 🔧 Recent Contributions
-
+-->
 <!-- GitHub Activity Graph -->
 <!-- ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tkamin&theme=github-compact) -->
 
+<!--
 ---
 
 ### 🔍 Pull Request Summary
@@ -35,7 +38,7 @@
 | 📈 Total Commits| ![Commits](https://img.shields.io/badge/dynamic/json?color=success&label=Commits&query=%24.totalCommits&url=https%3A%2F%2Fgh-stats-api.herokuapp.com%2Fapi%2Ftkamin) |
 
 > 🛠 For advanced insights like PRs reviewed/merged, you’ll need to use the GitHub GraphQL API or third-party services like [Orbit](https://orbit.love), [Octo Insights](https://octoinsights.com), or set up a custom GitHub Action.
-
+-->
 ---
 
 📫 Reach me at [tkamin@alum.mit.edu](mailto:tkamin@alum.mit.edu)
